@@ -1,0 +1,11 @@
+build:
+  version: "3.1"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Assia beqali - QA Lead"
+    email: "assia@eazybank.com"
+  onCallSupport:
+    - (412) 390-3491
+    - (915) 481-2876

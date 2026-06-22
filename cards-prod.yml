@@ -1,0 +1,11 @@
+build:
+  version: "3.3"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Imad boka - product owner"
+    email: "imad@eazybank.com"
+  onCallSupport:
+    - (412) 450-3491
+    - (915) 091-1239

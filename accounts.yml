@@ -1,0 +1,16 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
+
+
+#  -Dspring.profiles.active=prod -Dbuild.version=1.3 for VM options
+#  --spring.profiles.active=prod --build.version=1.3 for command line options
+#  SPRING_PROFILES_ACTIVE=prod;BUILD_VERSION=1.8 for environment variables

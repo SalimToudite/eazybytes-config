@@ -2,7 +2,7 @@ build:
   version: "3.3"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
     name: "Imad boka - product owner"
     email: "imad@eazybank.com"
